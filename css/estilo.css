@@ -1,0 +1,30 @@
+#espaço{
+	width: 100%;
+	height: 30px;
+}
+
+#espaço2{
+
+}
+
+#nav{
+	transition: left 0.5s linear;
+		position: fixed;
+}
+
+#foto{
+	margin-bottom: 30px; 
+	margin-top: 20px; 
+	width: 220px;
+	height: 220px;
+	border: solid 2px;
+	border-radius: 50%; 
+}
+
+#perfil{
+	text-align: center;
+}
+
+body{
+	background: #B0C4DE;
+}
